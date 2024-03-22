@@ -15,7 +15,7 @@ This repository contains the source code for my personal website, showcasing my 
 
 ## How to Use
 
-1. Clone the repository to your local machine using `git clone https://github.com/rishabhops/portfolio`.
+1. Clone the repository to your local machine using `git clone https://github.com/haiyat11/portfolio`.
 2. Open the `index.html` file in your web browser to view the website locally.
 3. Customize the content, styling, and links according to your preferences.
 4. Deploy the website to your preferred hosting platform to make it accessible online.
